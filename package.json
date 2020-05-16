@@ -48,7 +48,7 @@
     "graphql-type-json": "^0.1.4",
     "line-column": "^1.0.2",
     "node-fetch": "~1.7.0",
-    "trace-error": "~0.0.7"
+    "trace-error": "~0.0.10"
   },
   "peerDependencies": {
     "@types/graphql": "~0.10.4 || ~0.11.0 || ~0.12.0 || ~0.13.0",
