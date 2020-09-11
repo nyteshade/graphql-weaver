@@ -47,7 +47,7 @@
     "graphql-transformer": "^0.1.4",
     "graphql-type-json": "^0.1.4",
     "line-column": "^1.0.2",
-    "node-fetch": "~1.7.0",
+    "node-fetch": "~2.6.1",
     "trace-error": "~0.0.7"
   },
   "peerDependencies": {
